@@ -45,13 +45,12 @@ Key insights include <br>
 	•	Understand geographic and category-based customer . <br>
 	•	Support targeted marketing and retention strategies. <br>
 
-# 📊 Product Details Dashboard  <br>
+# 📊 Product Details  <br>
 
 The Product Details Dashboard provides a comprehensive view of product performance through an interactive and data-driven design. It captures quarterly revenue, order volumes, and category insights in a visually engaging format, empowering stakeholders to make quick and informed decisions. <br>
 
 
-🔑 Key Insights <br>
-                 
+🔑 Key Insights <br>           
 	•	Quarterly Revenue vs Target <br> 
  $156.45K achieved against a $176.07K target. <br>
   <br>
