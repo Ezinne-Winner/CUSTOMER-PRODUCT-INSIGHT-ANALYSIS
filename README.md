@@ -1,5 +1,7 @@
 # CUSTOMER AND PRODUCT INSIGHT ANALYSIS--- USING POWERBI
-This project showcases a Business Intelligence (BI) analysis built to monitor sales performance, customer behavior, and business profitability. Through interactive dashboards, the analysis is divided into three sections: Product Details, Customer Details, and an Executive Summary, giving a full 360° view of the business.<br>
+The Customer & Product Insights Analysis provides a comprehensive view of business performance by combining customer behavior, product trends, and revenue contributions. This dashboard highlights both individual and collective insights, enabling a deeper understanding of purchasing patterns, top-performing products, and high-value customers. <BR>
+
+By visualizing key metrics and trends, this analysis supports data-driven decisions, targeted marketing, and strategic growth initiatives. It’s designed to help businesses identify opportunities, optimize product offerings, and enhance customer retention..<br>
 <br>
 <img width="858" height="478" alt="dat1" src="https://github.com/user-attachments/assets/468c0de3-8586-4f49-a2d4-05511cc8dfc9" /> <br>
 <br>
