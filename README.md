@@ -1,17 +1,19 @@
-# Sales-Analysis--using-PowerBI
+# CUSTOMER AND PRODUCT INSIGHT ANALYSIS--- USING POWERBI
 This project showcases a Business Intelligence (BI) analysis built to monitor sales performance, customer behavior, and business profitability. Through interactive dashboards, the analysis is divided into three sections: Product Details, Customer Details, and an Executive Summary, giving a full 360° view of the business.<br>
+<br>
 <img width="858" height="478" alt="dat1" src="https://github.com/user-attachments/assets/468c0de3-8586-4f49-a2d4-05511cc8dfc9" /> <br>
+<br>
 <img width="833" height="478" alt="dat2" src="https://github.com/user-attachments/assets/070068d9-2e6f-4883-a364-f5ae79dda30e" /> <br>
+<br>
 <img width="829" height="483" alt="dat3" src="https://github.com/user-attachments/assets/078f4c61-7971-4c90-a2fe-ae8134f1135b" /> <br>
 
 # 📌 1. Executive Summary
 
 This dashboard provides a comprehensive overview of business performance across revenue, profit, and order distribution. The company achieved $6.46M in total revenue and $2.99M in profit from 120K total orders.
 
-Key insights include: <br>
+Key insights include <br>
 	•	Geographic Performance<br> 
- The United States leads both revenue and profit contributions, followed by Germany and the United Kingdom. <br>
-                                                                                                              
+ The United States leads both revenue and profit contributions, followed by Germany and the United Kingdom. <br>                                                                                         
 	•	Quarterly Trends <br>
  Steady growth is observed across revenue, orders, and profit, with quarterly revenue reaching $156.45K, orders at 2.94K, and profit at 72.23K. <br>
 	•	Category Performance <br>
@@ -48,7 +50,7 @@ Key insights include: <br>
 The Product Details Dashboard provides a comprehensive view of product performance through an interactive and data-driven design. It captures quarterly revenue, order volumes, and category insights in a visually engaging format, empowering stakeholders to make quick and informed decisions. <br>
 
 
-🔑 Key Insights <br
+🔑 Key Insights <br>
                  
 	•	Quarterly Revenue vs Target <br> 
  $156.45K achieved against a $176.07K target. <br>
@@ -67,3 +69,11 @@ The Product Details Dashboard provides a comprehensive view of product performan
   <br>
 	•	Order vs Probability Analysis <br>
  Distribution plots reveal customer purchase probabilities across categories, helping to identify high-yield products. <br>
+
+
+ ## 🚀 Strategic Insight 
+
+- *Leverage High-Value Customers:* Focus on top contributors and implement loyalty programs to boost retention and repeat purchases.  
+- *Capitalize on Core Categories:* Prioritize Homeware, Toys & Games, and Food & Drink through targeted promotions and product expansion.  
+- *Optimize Geography & Market Reach:* Strengthen presence in high-performing regions (US, Germany, UK) and explore growth in underrepresented markets.  
+- *Enhance Profitability & Brand Value:* Adjust pricing on low-performing products, invest in sustainable offerings, and differentiate with data-driven product development.
