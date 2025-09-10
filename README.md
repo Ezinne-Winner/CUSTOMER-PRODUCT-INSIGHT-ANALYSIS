@@ -3,11 +3,16 @@ The Customer & Product Insights Analysis provides a comprehensive view of busine
 
 By visualizing key metrics and trends, this analysis supports data-driven decisions, targeted marketing, and strategic growth initiatives. It’s designed to help businesses identify opportunities, optimize product offerings, and enhance customer retention..<br>
 <br>
-<img width="858" height="478" alt="dat1" src="https://github.com/user-attachments/assets/468c0de3-8586-4f49-a2d4-05511cc8dfc9" /> <br>
+![18-1](https://github.com/user-attachments/assets/dfa37b69-0104-4035-8000-01d004abcae5)
+
 <br>
-<img width="833" height="478" alt="dat2" src="https://github.com/user-attachments/assets/070068d9-2e6f-4883-a364-f5ae79dda30e" /> <br>
+
+![16](https://github.com/user-attachments/assets/27f974a2-c0ba-42cf-a8ad-691ee5a92639)
+ <br>
 <br>
-<img width="829" height="483" alt="dat3" src="https://github.com/user-attachments/assets/078f4c61-7971-4c90-a2fe-ae8134f1135b" /> <br>
+
+ <![17-1](https://github.com/user-attachments/assets/ea527e3e-b730-4c65-8f59-5fcb6aa68ded)
+<br>
 
 # 📌 1. Executive Summary
 
